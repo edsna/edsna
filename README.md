@@ -7,4 +7,4 @@
 📫 Reach me: [edsonaguiar17@gmail.com](mailto:edsonaguiar17@gmail.com)  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I founded a coding club for young girls in Mozambique!
-[![Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsna)](https://github.com/edsna/github-readme-stats)
+<-- [![Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsna)](https://github.com/edsna/github-readme-stats)-->
